@@ -1,0 +1,32 @@
+.calculater{
+  margin-left:500px;
+}
+.calculater h1{
+  margin-left:20px;
+}
+input{
+  margin: auto;
+  height: 65px;
+  width: 401.5px;
+  background-color: black;
+  color: white;
+  font-size:xx-large;
+  text-align: end;
+}
+button{
+  height: 90px;
+  width: 102px;
+  font-size: x-large;
+}
+.operators{
+background-color: rgb(247, 192, 40);
+border-right:1px solid yellow;
+}
+.digits:hover{
+  background-color: #d9d9d9;
+}
+.operators:hover{
+  background-color: #c7790f;
+}
+
+
